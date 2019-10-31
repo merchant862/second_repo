@@ -3,3 +3,5 @@ hello world
 new changes
 
 online github changes
+
+changes through smart git
